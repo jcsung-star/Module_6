@@ -14,8 +14,8 @@ You will then install the following librarie(s) and module(s) to run in Python c
 conda install -c pyviz hvplot geoviews
 
 To ensure installation was complete, run the following...
-    conda list hvplot
-    conda list geoviews
+    1) conda list hvplot
+    2) conda list geoviews
 
 ## Usage
 
