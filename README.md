@@ -1,4 +1,4 @@
-# Module_6 | Proptech
+# Proptech
 
 The application was created to provide data visualization, aggregation, interactive visualizations, and geospatial analysis, to find properties in the San Francisco market that are viable investment opportunities. It is a unique oportunity to review a seven year period of data to identify income streams for the potential investor.
 
