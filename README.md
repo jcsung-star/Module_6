@@ -1,11 +1,27 @@
-# Proptech
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=1000&height=200&section=header&text=Proptech%20Model&fontSize=30&fontColor=black)
+
+<!-- header is made with: https://github.com/kyechan99/capsule-render -->
+
+[John Sung](https://linkedin.com/in/john-sung-3675569) [<img src="https://cdn2.auth0.com/docs/media/connections/linkedin.png" alt="LinkedIn -  John Sung" width=15/>](https://linkedin.com/in/john-sung-3675569/)
+                                                           
+---
+
+### Table of Contents
+
+* [Overview](#overview)
+* [Requirements](#requirements)
+* [Usage](#data)
+* [Visualization](#visualization)
+* [License](#license)
+
+
+# Overview
 
 The application was created to provide data visualization, aggregation, interactive visualizations, and geospatial analysis, to find properties in the San Francisco market that are viable investment opportunities. It is a unique oportunity to review a seven year period of data to identify income streams for the potential investor.
 
 ---
 
-## Technologies
-
+## Requirements
 This project leverages python 3.7 and the PyViz Ecosystem.
 
 Go to your terminal or git bash and run conda activate dev to activate your conda dev environment. 
@@ -30,12 +46,6 @@ Go to the Anaconda Prompt to launch JupyterLab by typing Jupyter Lab. To use thi
 ![image](https://user-images.githubusercontent.com/87351302/139475332-15efe00e-4f95-40a6-92a2-b5a79e1ef4b6.png)
 ![image](https://user-images.githubusercontent.com/87351302/139475454-98a07143-2314-4d6c-b7f0-b3a89292d2f8.png)
 ![image](https://user-images.githubusercontent.com/87351302/139475856-1f5c3d53-4151-4482-826f-85ed0cb9a527.png)
-
----
-
-## Contributors
-
-linkedin.com/in/john-sung-3675569
 
 ---
 
